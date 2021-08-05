@@ -1,5 +1,5 @@
 //****challege #1 ****
-console.log("Vipul mahajan");
+// console.log("Vipul mahajan");
 
 //****challege #2 ****
 /* var readlineSync = require("readline-sync");
@@ -253,7 +253,7 @@ console.log("YAH! YOUR SCORED " + score);
 
 //quiz
 
-/*
+
 const readlineSync = require('readline-sync')
 let score = 0;
 const questions = [
@@ -345,7 +345,7 @@ for (let i = 0; i < highestScorers.length; i++) {
   console.log('Score: ', highestScorers[i].score);
   console.log("------------------");
 }
-*/
+
 
 
 // good commit messages
